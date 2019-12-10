@@ -3,8 +3,88 @@
 }
 .fblogo {
 	height: 30px;
+	margin-left: 20px;
+	border-left: 1px;
 }
 .youtlogo {
 	height: 30px;
-	border-left: 50px;
+	margin-left:  20px;
+    height: 30px;
+    font-size: 1.3em;
+    border-style: solid;
+    border-left-width: 2px;
+    box-shadow: 0px 3px 1px #3D58A6;
+}
+.main-image {
+	height: 125px; 
+	display: inline-block;
+}
+.section2 {
+	padding: 20px;
+	display: inline-block;
+}
+.tittle {
+	font-size: 24px;
+	font-weight: 900px;
+	margin-top:  50px;
+}
+.div1 {
+	margin: 10px; 
+	display: inline-block;
+}
+.div2 {
+	background-color: #f2f2f2;
+	padding: 10px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.title-h4 {
+	color: #3d58a6;
+	font-size: 22px;
+}
+.main-1 {
+	margin: 10px;
+	display: inline-block;
+}
+.main-text {
+	display: inline-block;
+	width: 400px;
+	vertical-align: top;
+}
+footer {
+	margin-top: 150px;
+}
+.nav {
+	display: inline-block;
+	color: #3D58A6;
+}
+.nav-li {
+	display: inline-block;
+	margin: 10px;
+}
+span {
+	color: red;
+}
+.newsh4 {
+	background-color: #3D58A6;
+	font-size: 50px;
+	color: #FFFFFF;
+	width: 50px;
+	margin: 15px;
+}
+.maisi {
+	background-color: #3D58A6;
+	font-size: 15px;
+	color: #FFFFFF;
+	width: 30px;
+	
+}
+.newsp {
+	display: inline-block;
+	text-align: top;
+	font-weight: 200px;
+}
+.photo {
+	display: inline-block;
+	text-align: top;
 }
